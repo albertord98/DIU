@@ -30,7 +30,7 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Las aplicaciones elegidas son las siguientes:/b\b
+>>> Las aplicaciones elegidas son las siguientes:<br>
 >>> Get Your Guide: Líder internacional en planificación de viajes. Página muy profesional, con buena interfaz y funcionalidad.
 >>> Granada Tours: Página de tours de Granada. Elegida porque se puede considerar un rival directo. Bastante mejorable en general.
 >>> Civitatis: Lider en distribución de actividades en español. Calidad muy alta, similar a Get Your Guide
