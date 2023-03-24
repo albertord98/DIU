@@ -31,8 +31,8 @@ Miembros
 -----
 
 >>> Las aplicaciones elegidas son las siguientes:<br>
->>> Get Your Guide: Líder internacional en planificación de viajes. Página muy profesional, con buena interfaz y funcionalidad.
->>> Granada Tours: Página de tours de Granada. Elegida porque se puede considerar un rival directo. Bastante mejorable en general.
+>>> Get Your Guide: Líder internacional en planificación de viajes. Página muy profesional, con buena interfaz y funcionalidad.<br>
+>>> Granada Tours: Página de tours de Granada. Elegida porque se puede considerar un rival directo. Bastante mejorable en general.<br>
 >>> Civitatis: Lider en distribución de actividades en español. Calidad muy alta, similar a Get Your Guide
 
 ![Método UX](img/Persona.png) 1.b Persona
