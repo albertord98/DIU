@@ -47,6 +47,13 @@
 >>> - Comentario sobre la valoración:  En general se trata de una página correcta, con una interfaz amigable y una usabilidad buena. Las carencias principales son los formularios, así como los errores que muestran, y la ausencia de una barra de búsqueda de tours.
 
 
+![Método UX](../img/empathyMap.png) 1.d Empathy Map
+
+>>> Con el mapa de empatia nos ponemos en el lugar del usuario para entender cómo piensa y siente (qué dice, qué piensa, qué le da miedo, qué le preocupa, qué hace, qué siente)y así poder crear soluciones que satisfagan sus necesidades de manera efectiva.
+
+![Alt Text](../img/empathy_map.png)
+
 **Valoración y conclusiones de esta etapa**
+
 Tras realizar esta práctica hemos conseguido salir de nuestra forma de pensar las cosas como ingenieros (como creadores de la web) y pensar como un usuario final que puede utilizar la web y que, como todo el mundo, tendrá sus dificultades ya sea por el idioma, edad, capacidad, etc.
 Esta forma de empatizar es muy buena ya que al ponerte en la piel del usuario final, intentas que todas sus necesidades, dudas, problemas sean saciados.
