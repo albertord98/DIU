@@ -55,17 +55,15 @@ Miembros
 
 ![Alt Text](img/JourneyGrisha.png)
 
->>> Chiara
+>>> Muchos usuarios como Chiara pueden visitar nuestra página. Es importante que se sientan cómodos, con una interfaz llamativa y moderna, así como una usabilidad intuitiva y con bajos tiempos de carga. Para las personas jóvenes, largos tiempos de carga pueden suponer que se marchen de la web.
 
 ![Alt Text](img/JourneyChiara.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Enlace al documento:  [Usability Review](https://github.com/albertord98/DIU/blob/master/P1/Usability-review-template.xlsx)
+>>> - Valoración final (numérica): 70.22%
+>>> - Comentario sobre la valoración:  En general se trata de una página correcta, con una interfaz amigable y una usabilidad buena. Las carencias principales son los formularios, así como los errores que muestran, y la ausencia de una barra de búsqueda de tours.
 
 
 ## Paso 2. UX Design  
