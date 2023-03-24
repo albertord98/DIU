@@ -40,7 +40,7 @@ Miembros
 
 >>> Grisha nos sirve para ver como interactuaría con nuestra página el colectivo de personas mayores, con poca cultura tecnológica, o con barreras como el idioma. Muchos turistas que se pueden ver interesados en estos tours forman parte de este grupo.
 
-!(img.Grisha.png)
+![Alt Text](img/Grisha.png)
 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
