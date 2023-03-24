@@ -30,12 +30,18 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> Las aplicaciones elegidas son las siguientes:
+>>> Get Your Guide: Líder internacional en planificación de viajes. Página muy profesional, con buena interfaz y funcionalidad.
+>>> Granada Tours: Página de tours de Granada. Elegida porque se puede considerar un rival directo. Bastante mejorable en general.
+>>> Civitatis: Lider en distribución de actividades en español. Calidad muy alta, similar a Get Your Guide
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> Grisha nos sirve para ver como interactuaría con nuestra página el colectivo de personas mayores, con poca cultura tecnológica, o con barreras como el idioma. Muchos turistas que se pueden ver interesados en estos tours forman parte de este grupo.
+
+!(img.Grisha.png)
+
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
