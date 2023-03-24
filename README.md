@@ -35,7 +35,7 @@ Miembros
 >>> Granada Tours: Página de tours de Granada. Elegida porque se puede considerar un rival directo. Bastante mejorable en general.<br>
 >>> Civitatis: Lider en distribución de actividades en español. Calidad muy alta, similar a Get Your Guide
 
-![Alt Text](img/CompetitiveAnalysis.png)
+![Alt Text](img/CompetitorAnalysis.png)
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
