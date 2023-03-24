@@ -42,12 +42,22 @@ Miembros
 
 ![Alt Text](img/Grisha.png)
 
+>>> Por el contrario, Chiara representa el grupo de personas jovenes, con muchos conocimientos sobre las nuevas tecnologías, y que se interesan en viajar y compartir sus experiencias en redes sociales. Para ellos, realizar una reserva online no supone un gran problema, pero pueden ser críticos con la apariencia de la página y sus velocidad de carga y uso.
+
+![Alt Text](img/Chiara.png)
+
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> La experiencia de usuario de Grisha puede ser bastante común. Personas mayores, que no tienen mucha experiencia navegando por internet, y que necesitan ayuda para realizar ciertas tareas. De igual forma, el idioma es muy importante ya que limitará enormemente la experiencia en la página.
+
+![Alt Text](img/JourneyGrisha.png)
+
+>>> Chiara
+
+![Alt Text](img/JourneyChiara.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
