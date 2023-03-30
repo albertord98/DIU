@@ -46,7 +46,7 @@ Miembros
 
 >>> Por el contrario, Chiara representa el grupo de personas jovenes, con muchos conocimientos sobre las nuevas tecnologías, y que se interesan en viajar y compartir sus experiencias en redes sociales. Para ellos, realizar una reserva online no supone un gran problema, pero pueden ser críticos con la apariencia de la página y sus velocidad de carga y uso.
 
-![Alt Text](img/Chiara.png)
+![Alt Text](img/Chiara.png?)
 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
