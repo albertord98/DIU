@@ -27,7 +27,7 @@ Miembros
 
 ## Paso 1. UX Desk Research & Analisis 
 
-![Método UX](img/.png) 1.a Competitive Analysis
+![Método UX](img/1a_Competitive.png) 1.a Competitive Analysis
 -----
 
 >>> Las aplicaciones elegidas son las siguientes:<br>
