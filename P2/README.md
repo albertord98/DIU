@@ -5,7 +5,7 @@
 
   Recabamos en la malla receptora de información (feedback capture grid) la información obtenida de los usuarios de la práctica 1 (y de nuestra experiencia) para así abordar el diseño. La técnica consiste en elaborar un cuadrante con 4 apartados: aspectos positivos actualmente existentes, críticas constructivas, preguntas de los usuarios (a partir de las personas ficticias), e ideas de mejora (a partir de la experiencia del equipo de desarrollo). La diferencia entre las preguntas de los usuarios y las ideas de mejora, es que un usuario no se plantea si se puede implementar o no la solución que propone
 
-  ![malla receptora de información](malla receptora de información.png)
+  ![malla receptora de información](malla_receptora_de_información.png)
 
 
 ### PROPUESTA DE VALOR
@@ -13,7 +13,7 @@
 
   a breve descripción del proyecto como el LeanUX Canvas son herramientas  esenciales para cualquier proyecto de diseño de productos o servicios,  ya que ayudan a comunicar claramente el propósito y el valor del  proyecto y a visualizar el proceso completo del proyecto para  desarrollar productos o servicios que satisfagan las necesidades del  usuario de manera efectiva.
 
-  ![Propuesta de valor](propuesta valor.png)
+  ![Propuesta de valor](propuesta_valor.png)
 
 
 ### TASK ANALYSIS
@@ -36,7 +36,7 @@ Para lograr esto, se utilizan técnicas y metodologías específicas para el an�
 
 La arquitectura de información es esencial en el diseño de productos digitales, ya que la eficiencia y la facilidad de uso son factores críticos para el éxito de cualquier sistema. En resumen, la arquitectura de información es una disciplina que se enfoca en la organización y estructuración de la información para crear productos o sistemas de fácil uso y navegación para los usuarios.
 
-![](arquitectura de informacion.png)
+![](arquitectura_de_informacion.png)
 
 ### Prototipo Lo-FI Wireframe 
 
