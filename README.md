@@ -5,14 +5,16 @@ Grupo: DIU2.FelpudoMoreno  Curso: 2022/23
 Updated: 24/3/2023
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+RestaurApp
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+RestaurApp se trata de una página web y aplicación móvil que permitirá a sus usuarios encontrar los mejores sitios
+para comer de su ciudad, filtrando por tipos de comida, ya sea local o extranjera, valoraciones de los restaurantes, 
+o por ubicación.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+![Alt Text](img/restaurapp.png)
 
 Miembros
  * :bust_in_silhouette:   Alberto Miguel Rodríguez Díaz     :octocat:     
