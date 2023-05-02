@@ -9,9 +9,9 @@ RestaurApp
 
 Descripción: 
 
-RestaurApp se trata de una página web y aplicación móvil que permitirá a sus usuarios encontrar los mejores sitios
-para comer de su ciudad, filtrando por tipos de comida, ya sea local o extranjera, valoraciones de los restaurantes, 
-o por ubicación.
+RestaurApp se trata de una página turística para la recomendación de los mejores lugares para comer y cenar en tu ciudad. La pagina principal contará con una barra de búsqueda y un selector del tipo de comida que le apetece al usuario. Una vez seleccionada, se le mostrarán las opciones mejor valoradas alrededor de su zona. 
+
+También existirá un mapa de la ciudad que mostrará los restaurantes por ubicación.
 
 Logotipo: 
 ![Alt Text](img/restaurapp.png)
@@ -77,7 +77,8 @@ Miembros
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+![Alt Text](img/fcg.png)
+
 
 
  Interesante | Críticas     
@@ -95,6 +96,8 @@ Miembros
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 >>> Propuesta de valor 
+![Alt Text](img/scopeCanvas.png)
+
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
