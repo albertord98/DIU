@@ -108,18 +108,43 @@ Miembros
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
+>>> Sitemap
 
->>> Identificar términos para diálogo con usuario  
+![Alt Text](img/flow.jpeg)
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+>>> Labeling
+
+![Alt Text](img/label.png)
+
+
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+>>> Landing page
+
+![Alt Text](img/index.png)
+
+
+>>> Búsqueda por categoria
+
+![Alt Text](img/categoria.png)
+
+
+>>> Búsqueda por termino
+
+![Alt Text](img/busqueda.png)
+
+
+>>> Búsqueda por ubicación
+
+![Alt Text](img/mapa.png)
+
+
+>>> Ejemplo de restaurante
+
+![Alt Text](img/restaurante.png)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
