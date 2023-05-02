@@ -114,7 +114,7 @@ Miembros
 
 >>> Labeling
 
-![Alt Text](img/label.png)
+![Alt Text](img/labels.png)
 
 
 
@@ -129,7 +129,7 @@ Miembros
 
 >>> Búsqueda por categoria
 
-![Alt Text](img/categoria.png)
+![Alt Text](img/categoriaComida.png)
 
 
 >>> Búsqueda por termino
