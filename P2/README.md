@@ -2,8 +2,10 @@
 
 ### Ideación 
 * Malla receptora de información 
-* Mapa de empatía
-* Point of View 
+
+  Recabamos en la malla receptora de información (feedback capture grid) la información obtenida de los usuarios de la práctica 1 (y de nuestra experiencia) para así abordar el diseño. La técnica consiste en elaborar un cuadrante con 4 apartados: aspectos positivos actualmente existentes, críticas constructivas, preguntas de los usuarios (a partir de las personas ficticias), e ideas de mejora (a partir de la experiencia del equipo de desarrollo). La diferencia entre las preguntas de los usuarios y las ideas de mejora, es que un usuario no se plantea si se puede implementar o no la solución que propone
+
+  ![malla receptora de información](/DIU/P2/malla receptora de información.png)
 
 
 ### PROPUESTA DE VALOR
