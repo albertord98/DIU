@@ -102,7 +102,11 @@ Miembros
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+![Alt Text](P2/descripcion.png)
+
+![Alt Text](P2/tabla_1.png)
+
+![Alt Text](P2/tabla_2.png)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
@@ -145,6 +149,10 @@ Miembros
 >>> Ejemplo de restaurante
 
 ![Alt Text](img/restaurante.png)
+
+>>> Mi perfil
+
+![Alt Text](img/perfil.png)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
