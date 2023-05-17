@@ -161,17 +161,18 @@ Miembros
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
+![Alt Text](img/moodboard.png)
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+La herramienta utilizada para realizar el logotipo es Looka, un creador de logos gratuito. Nos ha parecido una herramienta muy útil, sencilla y rápida, ya que permite generar una gran cantidad de logos en función de características que le añadas, así como iconos que quieres que incluya, estilos, etc. 
+La resolución empleada es de 1256 × 930. 
+Sería necesario emplear una resolución mas alargada para una cabecera como la de Twitter.
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
+![Alt Text](img/landingPage.png)
 
->>> Plantear Landing Page 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
