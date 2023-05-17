@@ -158,7 +158,7 @@ Miembros
 ## Paso 3. Mi UX-Case Study (diseño)
 
 
-![Método UX](img/moodboard.png) 3.a Moodboard
+![Método UX]() 3.a Moodboard
 -----
 
 ![Alt Text](img/moodboard.png)
