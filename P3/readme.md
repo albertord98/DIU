@@ -10,6 +10,12 @@ Sería necesario emplear una resolución mas alargada para una cabecera como la 
 
 
 
+**Test de colores:**
+
+
+
+
+
 ## Landing Page
 
 ![Alt Text](../img/landingPage.png)
@@ -18,7 +24,23 @@ Sería necesario emplear una resolución mas alargada para una cabecera como la 
 
 ## Mockup: LAYOUT HI-FI
 
-* **Home o página principal**
+**Home o página principal** (usuario no logeado)
+
+![](pricipal.png)
+
+Esta es la pantalla por defecto que aparece cuando alguien entra por primera vez en nuestra aplicación o cuando cierra sesión. Desde esta página, clicando en el botón podremos registrarnos o iniciar sesión.
+
+* **Página de registro**
+
+  ![](registro.png)
+
+* **Inicio de sesión**
+
+![](login.png)
+
+El usuario podrá iniciar sesión con su cuenta (que previamente ha registrado) o podrá directamente iniciar sesión con Google, Facebook o Apple. También se pone a disposición un servicio de recuperación de contraseña (en caso de ser olvidada) vía mail.
+
+* **Home o página principal** (usuario logeado)
 
 ![home.png](home.png)
 
