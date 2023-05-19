@@ -291,10 +291,7 @@ En la parte inferior podemos observar un footer en el cual se encuentran las pá
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
-
+El despliegue de la página se ha realizado con github pages en https://albertord98.github.io/DIU/
 
 ## Paso 4. Evaluación 
 
