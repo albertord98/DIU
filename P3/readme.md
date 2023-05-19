@@ -32,7 +32,7 @@ Esta es la pantalla por defecto que aparece cuando alguien entra por primera vez
 
 * **Página de registro**
 
-  ![Alt Text](registro.png)
+  ![Alt Text](regisro.png)
 
 * **Inicio de sesión**
 
