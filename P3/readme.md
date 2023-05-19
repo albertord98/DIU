@@ -16,9 +16,40 @@ Sería necesario emplear una resolución mas alargada para una cabecera como la 
 
 ## Mockup: LAYOUT HI-FI
 
+* **Home o página principal**
+
+![home.png](home.png)
+
+En el diseño de la página principal, el usuario podrá seleccionar un restaurante por el tipo de comida que le guste, por recomendaciones diseñadas para él/ella, por sitios cercanos, etc.
+
+
+
+* **Listado de restaurantes**
+
+  ![listado](listado.png)
+
+  
+
+  
+
+  
+
+* **Detalle de restaurante**
+
+  ![](detalle.png)
+
+* **Búsqueda mapa**
+
+  ![](mapa.png)
+
+* **Perfil**
+
+  ![](perfil.png)
 
 ## Documentación: Publicación del Case Study
 
 
 (incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
- 
+
+
+
