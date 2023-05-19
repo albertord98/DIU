@@ -20,7 +20,7 @@ Miembros
  * :bust_in_silhouette:   Alberto Miguel Rodríguez Díaz     :octocat:     
  * :bust_in_silhouette:  Abel Ríos Gonzalez     :octocat:
 
------ 
+-----
 
 
 
@@ -84,8 +84,8 @@ Miembros
  Interesante | Críticas     
 | ------------- | -------
   Preguntas | Nuevas ideas
-  
-    
+
+
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
 >>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
@@ -293,6 +293,14 @@ En la parte inferior podemos observar un footer en el cual se encuentran las pá
 
 El despliegue de la página se ha realizado con github pages en https://albertord98.github.io/DIU/
 
+**Problemas surgidos:**
+
+- El libro de “Web UI DEsign Patterns 2016” no nos dejaba descargarlo desde https://www.uxpin.com/studio/ebooks/web-ui-design-patterns-2016-volume-1/ porque no nos llegaba al correo y hemos tenido que buscarlo en otro sitio.
+- Tuvimos un problema a la hora de la elección de los colores primarios de la aplicación ya que no le hicimos el test de contraste justo después de elegirlos, lo que provocó que no pudiéramos cambiar los wireframes y diseños de las páginas a tiempo.
+- Github nos ha dado problemas a la hora de insertar imágenes a los readme, el más molesto siendo que estos no se actualizaban al sobrescribir una imagen. Esto pasaba alguna por cargarse la caché del navegador y otras por razones que desconocemos.
+- Tuvimos varios retrasos en los diseños móvil de la web ya que muchas veces no nos decidíamos cuál era la mejor opción.
+- Problemas a la hora de estandarizar estilos, ya sean tamaños de fuente, dimensiones de campos de texto, botones, secciones de las distintas páginas, etc
+
 ## Paso 4. Evaluación 
 
 
@@ -307,7 +315,7 @@ El despliegue de la página se ha realizado con github pages en https://albertor
 ----
 
 >>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
+
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----

@@ -102,8 +102,15 @@ En la parte inferior podemos observar un footer en el cual se encuentran las pá
 
 ## Documentación: Publicación del Case Study
 
+La publicación se ha realizado utilizando github pages en https://albertord98.github.io/DIU/
 
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+**Problemas surgidos:**
+
+- El libro de “Web UI DEsign Patterns 2016” no nos dejaba descargarlo desde https://www.uxpin.com/studio/ebooks/web-ui-design-patterns-2016-volume-1/ porque no nos llegaba al correo y hemos tenido que buscarlo en otro sitio.
+- Tuvimos un problema a la hora de la elección de los colores primarios de la aplicación ya que no le hicimos el test de contraste justo después de elegirlos, lo que provocó que no pudiéramos cambiar los wireframes y diseños de las páginas a tiempo.
+- Github nos ha dado problemas a la hora de insertar imágenes a los readme, el más molesto siendo que estos no se actualizaban al sobrescribir una imagen. Esto pasaba alguna por cargarse la caché del navegador y otras por razones que desconocemos.
+- Tuvimos varios retrasos en los diseños móvil de la web ya que muchas veces no nos decidíamos cuál era la mejor opción.
+- Problemas a la hora de estandarizar estilos, ya sean tamaños de fuente, dimensiones de campos de texto, botones, secciones de las distintas páginas, etc
 
 
 
