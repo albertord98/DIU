@@ -12,7 +12,9 @@ Sería necesario emplear una resolución mas alargada para una cabecera como la 
 
 **Test de colores:**
 
+![Alt Text](test.png)
 
+Pese a no obtener mucha nota en el ratio de contraste con los colores blanco y naranja, sí que lo hacemos bastante bien al mezclar nuestro amarillo con el negro clásico.
 
 
 
