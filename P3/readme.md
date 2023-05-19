@@ -8,6 +8,8 @@ La herramienta utilizada para realizar el logotipo es Looka, un creador de logos
 La resolución empleada es de 1256 × 930. 
 Sería necesario emplear una resolución mas alargada para una cabecera como la de Twitter.
 
+
+
 ## Landing Page
 
 ![Alt Text](../img/landingPage.png)
@@ -22,15 +24,31 @@ Sería necesario emplear una resolución mas alargada para una cabecera como la 
 
 En el diseño de la página principal, el usuario podrá seleccionar un restaurante por el tipo de comida que le guste, por recomendaciones diseñadas para él/ella, por sitios cercanos, etc.
 
+Aparte, tendrá un buscador y un menú desplegable en la esquina superior derecha para que pueda navegar por todas las pestañas de nuestra aplicación.
 
+En la parte inferior podemos observar un footer en el cual se encuentran las páginas de información junto con las redes sociales de RestaurApp.
+
+
+
+* **Desplegable**
+
+  ![desplegable.png](desplegable.png)
+
+  Aquí se puede ver la ventana que se mostraría en caso de que hiciésemos clic en el menú desplegable superior, pudiendo acceder a todas las secciones de nuestra aplicación:
+
+  * Perfil: perfil del usuario junto con sus datos y configuraciones
+
+  * Mapa: versión de búsqueda de restaurantes en versión mapa para poder ver los más cercanos a ti
+
+    
 
 * **Listado de restaurantes**
 
   ![listado](listado.png)
 
-  
+  En el listado de restaurantes podemos observar cada uno de los sitios con algo de información (imagenes modo carrusel, nombre, valoración por reseñas, ubicación, fragmento de descripción y botón de enlace al sitio).
 
-  
+  Estos restaurantes se pueden filtrar por distintas características y ordenarlas por estrellas, recientes, cercanas, etc.
 
   
 
@@ -38,13 +56,25 @@ En el diseño de la página principal, el usuario podrá seleccionar un restaura
 
   ![](detalle.png)
 
+  Cuando hacemos clic en un restaurante, nos lleva a la página de detalle de éste en la cual podemos ver al completo toda la información del sitio: ubicación, valoración, descripción completa junto con una serie de características a favor que describen en adjetivos al restaurante.
+
+  
+
 * **Búsqueda mapa**
 
   ![](mapa.png)
 
+  En la versión de mapa podremos ver los restaurantes más cercanos a nuestra ubicación en tiempo real junto con su valoración, distancia, etc.
+
+  
+
 * **Perfil**
 
   ![](perfil.png)
+
+  
+
+  En nuestro perfil podremos acceder a las distintas opciones de configuración, así como poder cerrar sesión de nuestra cuenta.
 
 ## Documentación: Publicación del Case Study
 
