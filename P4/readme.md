@@ -26,6 +26,8 @@ Los usuarios 3 y 4 realizarán este cuestionario pero aplicado a la página La A
 
 ![](sus.png)
 
+Se puede consultar [aquí]](https://github.com/albertord98/DIU/blob/master/P4/Cuestionario%20SUS%20DIU%20.xlsx)
+
 Tras ver los resultados, sacamos las siguientes **conclusiones**:
 
 #### Conclusión A
@@ -66,6 +68,11 @@ Algunas mejoras o sugerencias realizadas por los usuarios son:
 Se puede encontrar [aquí](https://github.com/albertord98/DIU/blob/master/P4/Informe%20de%20usabilidad.pdf)
 
 ### Conclusiones
+
+Tras realizar el análisis de ambos diseños, llegamos a la conclusión de que ambos cuentan con ciertas ventajas e inconvenientes. 
+Para el caso A, se podrían realizar mejoras de interfaz, como por ejemplo de contraste, que facilite la visibilidad de ciertos elementos. Por otro lado, la realización de un footer más apropiado para un diseño móvil.
+
+Para el caso B, la página permite la realización de sus funciones, pero cuenta con un diseño algo desactualizado, pudiendo ser más atractivo.
 
 
 
