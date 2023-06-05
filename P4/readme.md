@@ -26,7 +26,7 @@ Los usuarios 3 y 4 realizarán este cuestionario pero aplicado a la página La A
 
 ![](sus.png)
 
-Se puede consultar [aquí]](https://github.com/albertord98/DIU/blob/master/P4/Cuestionario%20SUS%20DIU%20.xlsx)
+Se puede consultar [aquí](https://github.com/albertord98/DIU/blob/master/P4/Cuestionario%20SUS%20DIU%20.xlsx)
 
 Tras ver los resultados, sacamos las siguientes **conclusiones**:
 
