@@ -63,7 +63,7 @@ Algunas mejoras o sugerencias realizadas por los usuarios son:
 
 ### Usability Report (Caso B)
 
-Se puede encontrar [aquí]()
+Se puede encontrar [aquí](https://github.com/albertord98/DIU/blob/master/P4/Informe%20de%20usabilidad.pdf)
 
 ### Conclusiones
 
