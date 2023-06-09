@@ -7,7 +7,7 @@ En esta práctica de eyetracking, se analizará el comportamiento visual  de los
 ### Eye-tracking
 
 
-El informe se puede encontrar [aquí](https://github.com/albertord98/DIU/edit/master/P5/readme.md)
+El informe se puede encontrar [aquí](https://github.com/albertord98/DIU/blob/master/P5/DIU2.FelpudoMoreno_P5.pdf)
 
 
 ### Conclusión
